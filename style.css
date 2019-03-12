@@ -1,0 +1,25 @@
+body {
+    font-family: 'Sniglet', cursive;
+}
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+.photo {
+    float: left;
+}
+.head-contacts,
+h1,
+.contacts {
+    margin-left: 200px;
+}
+header hr {
+    clear: both;
+    margin-top: 100px;
+}
+main hr {
+    margin: 30px 0;
+}
+.about-me {
+    text-align: justify;
+}
